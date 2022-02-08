@@ -24,12 +24,12 @@ Aqueles que não respeitarem tais condutas serão anunciados (em privados) o com
 - Em hipótese alguma serão tolerados links com anúncios para visualização (como adf.ly e similares). Para compartilhar links, poste a URL direta do material proposto.
 - É extremamente proíbido compartilhamento de livros, cursos ou qualquer coisa do tipo que seja paga sem a autorização do autor.
 
-### 3. Política anti-spam
+### 3. Política antipirataria
 ------------
 - Pirataria é crime, não repasse links para material protegido no grupo;
 - Quem repassar material protegido poderá ser denunciado para o autor do material.
 
-### 4. Política anti-spam
+### 4. Orientações diversas
 ------------
 Lembre-se de que estamos em uma rede mundial, dar bom dia, boa tarde e boa noite não sentido já que existem usuários em diversos fusos nos canais, tente entender o contexto das conversas e interagir. Se preferir iniciar um novo assunto com uma pergunta e clara, ou então compartilhe sua opinião, mas lembre-se de que estes sistemas não são de chat em tempo real, mande a mensagem e aguarde os usuários do grupo interagirem em seu tempo.
 
@@ -41,7 +41,7 @@ Lembre-se de que os grupos não são canais de suporte oficial das tecnologias r
 
 Tente descrever sua dúvida com detalhes possíveis, perguntas e respostas.
 
-### 5. Política anti-spam
+### 5. Tema dos grupos
 ------------
 - Sempre que possível manter o tema central do grupo nas conversas;
 - Evite temas off-topics como games, futebol, credo e política;
