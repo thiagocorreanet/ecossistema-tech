@@ -54,8 +54,10 @@ Tente descrever sua dúvida com detalhes possíveis, perguntas e respostas.
 
 ### 7. Compartilhar links
 ------------
+- Antes de qualquer compartilhamento de cursos, solicitar autorização para os admins.
 - Evite fazer flood de links no canal;
 - Em alguma hipótese serão tolerados links com anúncios para visualização (como adf.ly e similares). Para compartilhar links, poste uma URL direta do material proposto.
+- Evite fazer ficar compartilhando link do IGTI e não interagir com o grupo e isso é válido para todos os tipos de compartilhamento. Não utilize o grupo apenas para divulgação de curso. Contribua.
 
 ### 8. Enviar código
 ------------
