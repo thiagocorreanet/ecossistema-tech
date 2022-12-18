@@ -1,8 +1,8 @@
 # Seja bem vindo ao nosso grupo MS! 💙
 
 Esse grupo foi criado com o foco para compartilhamento em conteúdos sobre tecnologias relacionada a empresa da Microsoft.
-A ideia é que todos os integrantes possam ajudar/contribuir tirando dúvidas de programações, banco de dados, infra, devops, e gestão de projetos.
-Divulgação de lives, cursos, eventos presenciais e divulgar o evento que tem todos os anos da Microsoft com o intutito de levar conhecimento para dentro da sua casa.
+A ideia é que todos os integrantes possam ajudar/contribuir tirando dúvidas de programações, banco de dados, infra, DevOps, e gestão de projetos.
+Divulgação de lives, cursos, eventos presenciais e divulgar o evento que tem todos os anos da Microsoft com o intuito de levar conhecimento para dentro da sua casa.
 
 Não toleramos alguns pontos que possam de alguma forma ofender as pessoas, pensando nisto hoje temos 4 administradores que vocês podem chamar a hora que quiser.
 
@@ -13,7 +13,7 @@ Não toleramos alguns pontos que possam de alguma forma ofender as pessoas, pens
 
 ---
 ### Link do grupo 🤓
-Para você que esta caindo de paraquedas e quer participar clique [AQUI](https://chat.whatsapp.com/BtEynUIfXORKwneR8BQ8qA "AQUI") para participar, mas antes leia as nossas regras [AQUI](https://github.com/thiagocorreabotelho/tecnologias-microsoft/discussions/1 "AQUI") e qualquer dúvida é só chamar.
+Para você que está caindo de paraquedas e quer participar clique [AQUI](https://chat.whatsapp.com/BtEynUIfXORKwneR8BQ8qA "AQUI") para entrar no grupo, mas antes leia as nossas regras [AQUI](https://github.com/thiagocorreabotelho/tecnologias-microsoft/discussions/1 "AQUI") e qualquer dúvida é só chamar.
 
 ---
 
@@ -33,4 +33,4 @@ Para você que esta caindo de paraquedas e quer participar clique [AQUI](https:/
 
 7. **Visual Studio**: Informações sobre VS como dicas, post.
 
-_Dito isso seja bem vindo(a) e venha fazer parte da comunidade e ajudar o proóximo e também aprender com a gente. 💙_
+_Dito isso seja bem vindo(a) e venha fazer parte da comunidade e ajudar ao próximo e também aprender com a gente. 💙_
