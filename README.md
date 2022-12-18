@@ -1,4 +1,4 @@
-Seja bem vindo ao nosso grupo! 💙
+# Seja bem vindo ao nosso grupo! 💙
 
 Esse grupo foi criado com o foco para compartilhamento em conteúdos sobre tecnologias relacionada a empresa da Microsoft.
 A ideia é que todos os integrantes possam ajudar/contribuir tirando dúvidas de programações, banco de dados, infra, devops, e gestão de projetos.
