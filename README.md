@@ -9,7 +9,7 @@ Não toleramos alguns pontos que possam de alguma forma ofender as pessoas, pens
 - Renato Groffe ([Perfil LinkedIn](https://www.linkedin.com/in/renatogroffe/ "Perfil LinkedIn"))
 - Johnson de Souza Cruz ([Perfil LinkedIn](https://www.linkedin.com/in/johnsonsouzacruz/ "Perfil LinkedIn"))
 - Erick Fernando ([Perfil LinkedIn](https://www.linkedin.com/in/erickfernandorodrigues/ "Perfil LinkedIn"))
-- Thiago Corrêa ([Perfil LinkedIn](hhttps://www.linkedin.com/in/thiagocorreab/ "Perfil LinkedIn"))
+- Thiago Corrêa ([Perfil LinkedIn](https://www.linkedin.com/in/thiagocorreab/))
 
 ---
 ### Link do grupo 🤓
