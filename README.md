@@ -16,3 +16,5 @@ Fiquem à vontade para interagir, aprender e contribuir. Juntos, construímos um
 
 - 👨🏻‍💻 **.NET:** Este grupo é dedicado ao universo .NET. Aqui, você pode compartilhar seus conteúdos e esclarecer dúvidas com outros membros da comunidade. Estamos aqui para promover a troca de conhecimentos e experiências. Sinta-se à vontade para contribuir e fazer parte desse ambiente colaborativo!
 
+- 💼 **Vagas:** Este grupo é dedicado para divulgação de vagas .NET para nossos membros da comunidade.
+
