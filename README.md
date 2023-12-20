@@ -20,3 +20,5 @@ Fiquem à vontade para interagir, aprender e contribuir. Juntos, construímos um
 
 - ⭐ **Projetos Open Source:** Este espaço é dedicado ao compartilhamento de projetos Open Source desenvolvidos utilizando a tecnologia .NET. Sintam-se à vontade para contribuir, colaborar e explorar as iniciativas open source da nossa comunidade. Vamos juntos impulsionar o código aberto!
 
+- 📆 **Eventos:** Este grupo tem como finalidade para compartilhamento de eventos.
+
