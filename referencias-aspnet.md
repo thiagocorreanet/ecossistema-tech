@@ -21,6 +21,17 @@ A seguir, apresentamos uma extensa lista de pessoas que contribuem para manter n
 | Luis Dev | https://luisdev.com.br | `Arquitetura` `.NET` `C#` `Microserviço` `Mensageria`
 | Marcio Nizzola | https://marcionizzola.medium.com |`.NET` `C#` `Padrões Arquitetural`
 
+**Cursos BR**
+| Nome | Plataforma | 
+| ------------- | ------------- |
+| Andre Baltieri  | https://balta.io/premium 
+| Gago | https://gago.io/
+| Daniel Jesus | https://www.udemy.com/course/apreendendo-arquitetura-cebola-no-net-core/?couponCode=MTST7102224A2
+| Luis Dev | https://www.luisdev.com.br/cursos-e-mentorias/
+| Alura | https://alura.com.br
+| Desenvolvedor io | https://desenvolvedor.io/
+| Rocketseat | https://rocketseat.com.br
+
 
 
 
